@@ -1,0 +1,2 @@
+# IntellipaatTraining
+Intellipaat assignments
